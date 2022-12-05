@@ -1,4 +1,5 @@
 
+
 ul{
     list-style: none;
     margin: 0;
@@ -44,23 +45,26 @@ li{
     margin-top: 2em;
     padding-bottom: 1em;
     padding-top: 1em;
+    color: cornsilk;
 }
 #mid-holder{
     display: flex;
     justify-content: space-between;
-    margin-left: 8em;
+    margin-left: 5em;
 }
 #left-holder{
-    border: solid black 5px;
     padding-bottom: 14em;
     text-align: center;
     width: 70%;
     height: 40%;
 }
+
 #text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-indent: 5px;
     width: 70%;
-    margin-left: 5em;
-    margin-right: 9em;
+    margin-left: 2em;
+    margin-right: 2em;
 }
 
 #bottom{
