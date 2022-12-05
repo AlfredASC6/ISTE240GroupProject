@@ -135,7 +135,6 @@ li{
     flex: 50%;
     background-color: #f1f1f1;
     padding: 10px;
-    margin-left: 15px;
 
   }
   
@@ -145,6 +144,7 @@ li{
     flex: 50%;
     background-color: white;
     padding: 20px;
+    margin-left: 20em;
   }
 
 
