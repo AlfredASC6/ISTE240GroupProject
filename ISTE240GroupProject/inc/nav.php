@@ -6,6 +6,7 @@
         <a href="dimarco.php">Nyle Di Marco</a>
         <a href="laurent.php">Laurent Clerc</a>
         <a href="feedback.php">Feedback</a>
+        <a href="keller.php">Helen Keller</a>
         <a href="javascript:void(0);" class="icon" onclick="myFunction()"> <i class="fa fa-bars"></i> </a>
     </ul>
   </nav>
