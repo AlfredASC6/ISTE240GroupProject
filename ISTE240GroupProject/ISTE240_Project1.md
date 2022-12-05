@@ -19,7 +19,7 @@ Deaf History
 			- description of early life
 			- education (text)
 			- occupation (text)
-			- contribution to death culture (text)
+			- contribution to deaf culture (text)
 			- reason for contribution for deaf culture (text)
 ## Taxonomy
 The homepage will consist of the overall history of the deaf/hard of hearing community and mention some key figures that we will cover in the other parts of the site. Each figure will have an individual site and a:

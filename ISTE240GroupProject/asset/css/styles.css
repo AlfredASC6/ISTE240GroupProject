@@ -50,18 +50,13 @@ li{
 #mid-holder{
     display: flex;
     justify-content: space-between;
-<<<<<<< HEAD
     margin-left: 5em;
-=======
-    margin-left: 8em;
-
->>>>>>> 7c8263779c88c286d62c1842dcf092523880d538
 }
 #left-holder{
     padding-bottom: 14em;
     text-align: center;
     width: 70%;
-    height: 70%;
+    height: 40%;
 }
 
 #text{
@@ -74,14 +69,14 @@ li{
 
 #bottom{
     display: flex;
-    margin-top: 30em;
+    margin-top: 12em;
     margin-left: 8em;
     margin-right: 10em;
 }
 #stat{
     margin-right: 8em;
     margin-left: 6em;
-    margin-top: 0em;
+    margin-top: 1em;
     border: solid black 5px;
 }
 #desc{
@@ -156,7 +151,6 @@ li{
     background:  #0F5D76;
     color: white;
   }
-
   
 
    /* Responsive layout  */
