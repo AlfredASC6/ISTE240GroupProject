@@ -15,10 +15,10 @@
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="thomas.php">Thomas Gallaudet</a></li>
-            <li><a href="alice.html">Alice Cogswell</a></li>
-            <li><a href="dimarco.html">Nyle Di Marco</a></li>
-            <li><a href="laurent.html">Laurent Clerc</a></li>
-            <li><a href="feedback.html">Feedback</a></li>
+            <li><a href="alice.php">Alice Cogswell</a></li>
+            <li><a href="dimarco.php">Nyle Di Marco</a></li>
+            <li><a href="laurent.php">Laurent Clerc</a></li>
+            <li><a href="feedback.php">Feedback</a></li>
         </ul>
     </nav>
     <br><br><br>
@@ -28,11 +28,18 @@
 
         <section id = "mid-holder">
             <div id = "left-holder">
-                 this is where the video will go, replace text once we find the video
+                <p>Deaf History Video</p>
+                <br />
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/WclFePswBok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </iframe>
             </div>
             <p id = "text">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis vitae fugiat non quae dolore odit laudantium
-                 temporibus ipsa enim. Maxime praesentium dolores aperiam beatae error deserunt natus aut mollitia rerum?
+            The history of Deafness and the Deaf community is long, and it comes with many periods of misunderstanding, oppression, and discrimination. 
+            The history also comes with great resilience, beauty, and strength. The Deaf community, denoted with the capital 'D' as a cultural and linguistic minority, 
+            has a rich culture and gorgeous language, American Sign Language. We invite you to learn more. All the pictures and icons have links to additional information. 
+            As you read, please note the use of historical terms that are not appropriate today. For example, deaf-mute is an offensive term as is hearing impaired. 
+            The correct terms are Deaf (cultural and linguistic minority), deaf (physical hearing loss, moderate to profound), hard of hearing (mild to moderate hearing loss), and Deaf-Blind 
+            (may be hard of hearing or deaf with low vision to complete blindness). 
             </p>
         </section>
         
