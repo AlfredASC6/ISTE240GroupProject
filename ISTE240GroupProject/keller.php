@@ -4,15 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "style" href = "asset/css/styles.css">
     <title>Hellen Keller</title>
 </head>
 <body>
-    <?php include "nav.php" ?>
+    <?php include "inc/nav.php" ?>
 
     <h1>Hellen Keller</h1>
 
     <div class = "mid">
-        <img src="helenKeller.jpg" alt="">
+        <img src="asset/image/helenKeller.jpg" alt="Image of Helen Keller">
         <p>
             Helen Keller, born as Helen Adams Keller was an Americam author, disability rights advocate, political acitvist and lecturer.
             She was born on June 27, 1880 in West Tuscumbia Alabama. Her father was Arthur Henley Keller and her mother was Cathreine
