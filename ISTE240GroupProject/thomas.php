@@ -24,13 +24,9 @@
     </header>
 <div class="row">
     <main>
-     <div class="image" style="height:200px;">Image</div>
-     <br>
-     <div class="image" style="height:200px;">Image</div>
-    </main>
-    <aside>
-    
-      <h4>Topic 1</h4>
+    <img src="asset/image/thomasGallaudet.jpg" alt="Image of Thomas Gallaudet">
+    <br>
+    <h4>Topic 1</h4>
       <p>
         Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
         Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
@@ -41,6 +37,10 @@
         eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
          Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam 
       </p>
+</main>
+    <aside>
+    
+      <img src="asset/image/thomas2.jpeg" alt="Another image of Thomas Gallaudet">
       <h4>Topic 2</h4>
       <p>
         Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
