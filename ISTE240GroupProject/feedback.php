@@ -16,8 +16,11 @@
     </div>
 
     <div id = "formDiv">
+        <form action="inc/config.php">
+            Name: <input type="text" name = "name">
+            Comment <input type="textarea" name = "comment">
+        </form>
         
-
     </div>
 </body>
 </html>
