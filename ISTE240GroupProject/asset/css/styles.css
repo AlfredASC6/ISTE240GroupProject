@@ -49,13 +49,14 @@ li{
     display: flex;
     justify-content: space-between;
     margin-left: 8em;
+
 }
 #left-holder{
     border: solid black 5px;
     padding-bottom: 14em;
     text-align: center;
     width: 70%;
-    height: 40%;
+    height: 70%;
 }
 #text{
     width: 70%;
@@ -65,14 +66,14 @@ li{
 
 #bottom{
     display: flex;
-    margin-top: 12em;
+    margin-top: 30em;
     margin-left: 8em;
     margin-right: 10em;
 }
 #stat{
     margin-right: 8em;
     margin-left: 6em;
-    margin-top: 1em;
+    margin-top: 0em;
     border: solid black 5px;
 }
 #desc{
@@ -147,6 +148,8 @@ li{
     background:  #0F5D76;
     color: white;
   }
+
+  
 
    /* Responsive layout  */
    @media screen and (max-width: 700px) {
