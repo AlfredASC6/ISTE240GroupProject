@@ -7,7 +7,7 @@
     <title>Thomas Gallaudet</title>
 </head>
 <body>
-    <?php include "nav.php"?>
+    <?php include "inc/nav.php"?>
 
     <h1>Thomas Gallaudet</h1>
 
