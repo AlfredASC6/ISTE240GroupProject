@@ -19,7 +19,7 @@
 
 
     <header>  
-        <h1>Thomas Gallaudet</h1>
+        <h1>Laurent Clerc</h1>
     
     </header>
 
