@@ -21,7 +21,7 @@
  <?php include "inc/nav.php"; ?>
 
      <header>  
-         <h1>The Person</h1>
+         <h1>Hellen Keller</h1>
 
      </header>
  <div class="row">
