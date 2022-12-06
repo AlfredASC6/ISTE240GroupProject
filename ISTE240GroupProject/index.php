@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<?php include "inc/head.php" ; ?>
+    <?php include "inc/head.php" ; ?>
     <title>Deaf History</title>
 </head>
 <body>
@@ -15,7 +15,7 @@
             <div id = "left-holder">
                 <p>Deaf History Video</p>
                 <br />
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/WclFePswBok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe id = "vid" src="https://www.youtube.com/embed/WclFePswBok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </iframe>
             </div>
             <p id = "text">

@@ -36,6 +36,10 @@ li{
     margin-bottom: 5em;
 }
 
+#vid{
+  width:"560px"; height:"315px";
+}
+
 .title{
     text-align: center;
     background-color: #0F5D76;
@@ -45,7 +49,6 @@ li{
     margin-top: 2em;
     padding-bottom: 1em;
     padding-top: 1em;
-    color: cornsilk;
 }
 #mid-holder{
     display: flex;
@@ -163,8 +166,27 @@ li{
     .row {   
       flex-direction: column;
     }
+    .title{
+      background-color: #0F5D76;
+    }
 
-    
+    #mid-holder{
+      display: flex;
+      flex-direction: column;
+      width:fit-content;
+    }
+    #vid{
+      width: fit-content;
+      height: fit-content;
+    }
+    #bottom{
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      margin-top: 90em;
+      margin-left: 6em;
+      width: fit-content
+    }
   }
   
 

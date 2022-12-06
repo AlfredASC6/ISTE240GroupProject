@@ -31,7 +31,7 @@
     
 </main>
     <aside>
-    <h2>Topic 1</h2>
+    <h2>Background</h2>
       <p>
       Thomas Hopkins Gallaudet, (born Dec. 10, 1787, Philadelphia, Pa., U.S.—died Sept. 10, 1851, Hartford, Conn.), educational 
       philanthropist and founder of the first American school for the deaf.
@@ -42,7 +42,7 @@ the philosophy of education at New York University (1832–33). In his Plan of a
  Youth (1825), he proposed special schools for the professional training of teachers. He also wrote textbooks for children 
  and the deaf.
       </p>
-      <h2>Topic 2</h2>
+      <h2>Contribution</h2>
       <p>
       Gallaudet was the youngest of eight children born to Thomas Hopkins Gallaudet—who had helped found the Connecticut Asylum 
       for the Education and Instruction of Deaf and Dumb Persons (now called the American School for the Deaf), which was the first 
