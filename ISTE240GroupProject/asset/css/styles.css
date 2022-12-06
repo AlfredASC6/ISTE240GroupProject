@@ -68,7 +68,7 @@ li{
 }
 
 #bottom{
-    display: flex;
+    display: block;
     margin-top: 12em;
     margin-left: 8em;
     margin-right: 10em;

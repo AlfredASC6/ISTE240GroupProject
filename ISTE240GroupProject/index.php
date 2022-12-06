@@ -5,16 +5,7 @@
     <title>Deaf History</title>
 </head>
 <body>
-    <nav class = "nav">
-        <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="thomas.php">Thomas Gallaudet</a></li>
-            <li><a href="alice.php">Alice Cogswell</a></li>
-            <li><a href="dimarco.php">Nyle Di Marco</a></li>
-            <li><a href="laurent.php">Laurent Clerc</a></li>
-            <li><a href="feedback.php">Feedback</a></li>
-        </ul>
-    </nav>
+    <?php include "inc/nav.php"?>
     <br><br><br>
     <section id = "center">
 
