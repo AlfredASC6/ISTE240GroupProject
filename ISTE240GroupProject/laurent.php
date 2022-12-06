@@ -22,7 +22,7 @@
 
     <main>
 
-    <img src="asset/image/laurent2.jpeg" alt="laurent">
+    <img src="asset/image/laurent1.jpeg" alt="laurent">
 
 
 
@@ -51,6 +51,12 @@
       
 
       </p>
+
+      <br>
+
+      <br>
+
+      <br>
 
       <h4>Contribution</h4>
 
