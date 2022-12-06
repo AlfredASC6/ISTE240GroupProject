@@ -31,13 +31,14 @@
     </section>
 
     <section id = "bottom">
-        <p id = "desc">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo nisi reprehenderit veniam consectetur soluta 
-            molestiae doloribus ipsum, sunt commodi molestias sit non, adipisci ducimus tempore odio voluptatum doloremque 
-            possimus delectus!
+        <p id = "desc text">
+            This image shows us the percentage of people with hearing loss by age and how severe it is.
+            The figures represent how common it is to have hearing loss as age increases. 1 in 10 people experience hearing 
+            loss by the age of 50, and the figure seems to be doubling withing every 10 years of an age gap. 
+
         </p>
 
-        <section id = "stat"> this is where the statistical image will go in</section>
+        <img src="asset/image/stat.jpg" alt="Stat image" id = "stat">
     </section>
 </body>
 </html>

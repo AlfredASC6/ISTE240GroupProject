@@ -37,7 +37,7 @@ li{
 }
 
 #vid{
-  width:"560px"; height:"315px";
+  width:"40em"; height:"30em";
 }
 
 .title{
@@ -73,19 +73,25 @@ li{
 #bottom{
     display: flex;
     margin-top: 12em;
-    margin-left: 8em;
-    margin-right: 10em;
-    margin-top: 30em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20em;
 }
 #stat{
     margin-right: 8em;
     margin-left: 6em;
     margin-top: 1em;
     border: solid black 5px;
+    width: 40em;
+    height: 30em;
 }
 #desc{
-    border: solid black 5px;
     padding-bottom: 4em;
+    width: 40em;
+    height: 30em;
+    margin-left: 10em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 /*image, just for this example */
@@ -179,13 +185,26 @@ li{
       width: fit-content;
       height: fit-content;
     }
+    #stat{
+      width:15em;
+      height:9em;
+
+    }
     #bottom{
       text-align: center;
       display: flex;
       flex-direction: column;
-      margin-top: 90em;
-      margin-left: 6em;
-      width: fit-content
+      margin-top: 80em;
+      margin-left: 3em;
+      margin-right: 6em;
+      width: fit-content;
+    }
+
+    #desc{
+      width:fit-content;
+      height:fit-content;
+      margin-right: 7em;
+      margin-left: 2em;
     }
   }
   
