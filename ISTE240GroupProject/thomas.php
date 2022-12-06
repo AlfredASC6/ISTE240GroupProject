@@ -58,7 +58,8 @@ the philosophy of education at New York University (1832–33). In his Plan of a
    
 </div>
 <footer>
-    <h2><a href="https://www.britannica.com/biography/Thomas-Hopkins-Gallaudet"></a></h2>
+    <h2><a href="https://www.britannica.com/biography/Thomas-Hopkins-Gallaudet">Britannica</a></h2>
+    <h2><a href="https://en.wikipedia.org/wiki/Thomas_Hopkins_Gallaudet">Wikipedia</a></h2>
 </footer>
 </body>
 </html>
