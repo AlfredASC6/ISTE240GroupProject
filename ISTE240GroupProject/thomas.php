@@ -26,31 +26,32 @@
     <main>
     <img src="asset/image/thomasGallaudet.jpg" alt="Image of Thomas Gallaudet">
     <br>
-    <h4>Topic 1</h4>
-      <p>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-        Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
-        Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. 
-        Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, 
-        venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus 
-        elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, 
-        eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
-         Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam 
-      </p>
+    <img src="asset/image/thomas2.jpeg" alt="Another image of Thomas Gallaudet">
+      <h4>Topic 2</h4>
+    
 </main>
     <aside>
-    
-      <img src="asset/image/thomas2.jpeg" alt="Another image of Thomas Gallaudet">
-      <h4>Topic 2</h4>
+    <h2>Topic 1</h2>
       <p>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-        Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
-        Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. 
-        Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, 
-        venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus 
-        elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, 
-        eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
-         Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam 
+      Thomas Hopkins Gallaudet, (born Dec. 10, 1787, Philadelphia, Pa., U.S.—died Sept. 10, 1851, Hartford, Conn.), educational 
+      philanthropist and founder of the first American school for the deaf.
+After graduating from Yale College in 1805, Gallaudet studied theology at Andover. His interests soon turned to the education 
+of the deaf, and he visited Europe, studying in England and France, where he learned the sign method of communication from Abbé Roch-Ambroise Sicard, head of the French Royal Institute for the Deaf. On Gallaudet’s return to the United States in 1816, he and Laurent Clerc established the American Asylum for Deaf-mutes at Hartford, Conn., in support of which the U.S. Congress made a land grant. For more than 50 years this school was the main training centre for instructors of the deaf.
+Gallaudet retired from the school in 1830, later receiving an appointment to the first professorship in the United States for 
+the philosophy of education at New York University (1832–33). In his Plan of a Seminary for the Education of Instructers of
+ Youth (1825), he proposed special schools for the professional training of teachers. He also wrote textbooks for children 
+ and the deaf.
+      </p>
+      <h2>Topic 2</h2>
+      <p>
+      Gallaudet was the youngest of eight children born to Thomas Hopkins Gallaudet—who had helped found the Connecticut Asylum 
+      for the Education and Instruction of Deaf and Dumb Persons (now called the American School for the Deaf), which was the first 
+      permanent American school for the deaf—and Sophia Fowler Gallaudet, a woman who had attended the institution. While studying 
+      at Trinity College (B.S., 1856) in Hartford, Edward taught part-time at the Connecticut Asylum. In 1857 he became 
+      superintendent of the Columbia Institution for the Instruction of the Deaf and Dumb and Blind in Washington, D.C., a 
+      school that Amos Kendall had founded. In 1864 Gallaudet and others successfully petitioned the U.S. Congress to allow the
+       school to grant college degrees; Pres. Abraham Lincoln signed the charter into law. Gallaudet served as president
+        (1864–1910) of the expanded institution, later called Gallaudet University 
       </p>
       
     </aside>
